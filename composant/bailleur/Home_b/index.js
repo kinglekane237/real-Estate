@@ -1,0 +1,1 @@
+export {default} from './Home_B_main'

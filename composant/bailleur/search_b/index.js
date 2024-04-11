@@ -1,0 +1,1 @@
+export {default} from './search_b_main'
